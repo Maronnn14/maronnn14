@@ -1,4 +1,4 @@
-<h2 text-align="center">Hi there 👋, I am Muhammad Rama Maulindra</h2> 
+<h1>Hi there 👋, I am Muhammad Rama Maulindra</h1> 
   <p align="center">
     <img src="./assets/I am Maronnn.png" alt="" width="100%">
   </p>
@@ -9,7 +9,7 @@
   - ⚡ Fun fact: WNI
   - 😂🤭😹
 
-    ## Skills
+ ## Skills
 <!-- Ikon cepat via skillicons.dev (opsional). Kamu boleh hapus baris ini jika pakai badge saja. -->
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind" height="48" alt="skills" />
