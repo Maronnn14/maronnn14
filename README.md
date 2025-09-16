@@ -1,16 +1,16 @@
-<h3 align="centar">Hi there 👋, I am Muhammad Rama Maulindra with username Maronnn14</h3> 
-<Br>
+<h2 align="centar">Hi there 👋, I am Muhammad Rama Maulindra with username Maronnn14</h2> 
+<br>
   <p align="center">
     <img src="./assets/I am Maronnn.png" alt="" width="100%">
   </p>
-<Br>
+<br>
 
   - 📚 I'm currently learning **Tailwind framework**
   - 📚 I'm currently learning **PHP**
   - 📚 I'm currently learning **JavaScript**
   - ⚡ Fun fact: WNI
   - 😂🤭😹
-<Br>
+<br>
 
     ## Skills
 <!-- Ikon cepat via skillicons.dev (opsional). Kamu boleh hapus baris ini jika pakai badge saja. -->
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </p>
 
-<Br>
+<br>
 ## Connect with me
 <p>
   <a href="https://www.instagram.com/rama_kiding?igsh=MngxZm5oaDN5aWxi<!-- ganti: username Instagram -->" target="_blank">
