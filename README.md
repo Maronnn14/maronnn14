@@ -1,4 +1,4 @@
-## Hi there 👋, I am Muhammad Rama Maulindra with username Maronnn14
+<h1 align="centar">Hi there 👋, I am Muhammad Rama Maulindra with username Maronnn14</h1> 
   <p align="center">
     <img src="./assets/I am Maronnn.png" alt="" width="100%">
   </p>
